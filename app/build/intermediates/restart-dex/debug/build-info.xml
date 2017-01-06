@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1463607500219695000"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="159" />
+    <task
+        name="instant-run-dex"
+        duration="1461" />
+    <task
+        name="instant-run-transform"
+        duration="16" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/Vivian/AndroidStudioProjects/Styled_Shapes/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="1463606243257125000" >
+        <artifact
+            location="/Users/Vivian/AndroidStudioProjects/Styled_Shapes/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1463607301269558000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Vivian/AndroidStudioProjects/Styled_Shapes/app/build/intermediates/builds/debug/1463607301269558000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1463607440251264000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Vivian/AndroidStudioProjects/Styled_Shapes/app/build/intermediates/builds/debug/1463607440251264000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1463607500219695000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Vivian/AndroidStudioProjects/Styled_Shapes/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
